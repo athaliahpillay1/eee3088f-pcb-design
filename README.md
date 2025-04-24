@@ -12,7 +12,7 @@ The power subsystem manages the energy requirements of the micromouse
 
 ## Installation
 1. Clone this repository to your local machine.
-2. Navigate to the relevant subsystem directory (`power_subsystem/` or `sensing_subsystem/`).
+2. Navigate to the relevant subsystem directory 
 3. Follow the instructions in the README file located in each subsystem directory to set up and run the code.
 
 ## Contribution Guidelines
