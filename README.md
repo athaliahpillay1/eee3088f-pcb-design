@@ -1,14 +1,15 @@
-# Group 29 micromouse Project
+# Group 29 micro-mouse Project
 
 ## Overview
-This repository contains the documentation for Group 29's micromouse project. The micromouse is an autonomous robotic device capable of navigating mazer 
+This repository contains the documentation for Group 29's micromouse project. The micromouse is an autonomous robotic device capable of navigating mazes
 
 ## Team Members
-- PLLATH001 and NCHMAI002
+- Athaliah Pillay (PLLATH001)
+- Maishikoe Nchabeleng (NCHMAI002)
 
 ## Subsystems
 ### Power Subsystem 
-The power subsystem manages the energy requirements of the micromouse
+The power subsystem manages the energy requirements of the micro-mouse
 
 ## Installation
 1. Clone this repository to your local machine.
